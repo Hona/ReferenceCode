@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Mapperly", "App.Mapperl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{6E447DED-5585-4386-925D-0DF95CE49B54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarks", "Benchmarks\Benchmarks.csproj", "{0DB8247B-1DFD-47C5-94A3-70E55F54015A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{6E447DED-5585-4386-925D-0DF95CE49B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E447DED-5585-4386-925D-0DF95CE49B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E447DED-5585-4386-925D-0DF95CE49B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB8247B-1DFD-47C5-94A3-70E55F54015A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB8247B-1DFD-47C5-94A3-70E55F54015A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB8247B-1DFD-47C5-94A3-70E55F54015A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB8247B-1DFD-47C5-94A3-70E55F54015A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
